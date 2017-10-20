@@ -1,6 +1,8 @@
 # Canary
 ```
-gcc server.c -o server
+$ gcc server.c -o server
+$ ./server
+$ python canary.py
 ```
 ## SERVER
 [https://github.com/packz/smashing-the-stack-2013/blob/master/server.c](https://github.com/packz/smashing-the-stack-2013/blob/master/server.c)
