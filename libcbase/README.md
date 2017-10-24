@@ -1,5 +1,8 @@
 # Bruteforce 
-Bruteforce libcbase and ret2libc attack for 32 bit linux 
+```
+$ file example_vuln
+example_vuln: ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=aaff0f9c20376d1500e125fe59966ccc27c015b7, not stripped
+```
 
 ## CHECKSEC
 ```
